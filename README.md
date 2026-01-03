@@ -1,5 +1,6 @@
 # 💫 About Me:
 I am full stack developer.
+Working with DamasInfo Lucknow Uttar pradesh.
 
 
 ## 🌐 Socials:
